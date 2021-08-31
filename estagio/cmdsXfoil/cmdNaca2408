@@ -1,0 +1,11 @@
+naca
+2408
+oper
+visc 1000000.0
+pacc
+reslXfoil/result.naca.2408.1.0e+06
+
+aseq -5 20 1  
+
+
+quit()

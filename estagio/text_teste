@@ -1,0 +1,11 @@
+naca
+0012
+oper
+visc 1e6
+pacc
+temp.result
+
+aseq -1 10 1
+
+
+quit()
